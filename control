@@ -1,7 +1,7 @@
 Package: com.netskao.twitternoads
 Name: Twitter NoAds
 Depends: mobilesubstrate, firmware (>= 15.0)
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm
 Description: Twitter removes ads from data stream. Tested on version 10.64.1 only
 Maintainer: Nets

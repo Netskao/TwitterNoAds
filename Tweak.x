@@ -17,3 +17,9 @@
     return %orig;
 }
 %end
+
+%hook TFSTwitterAPICommandAccountStateProvider
+- (BOOL)allowPromotedContent {
+    return NO;
+}
+%end
